@@ -50,7 +50,7 @@ No heavy installation required. This is a lightweight browser-based simulation.
 ## 📜 LICENSE
 
 Approved for public use under the **MIT License**.
-*Property of Stark Industries (Not really, but it looks like it).*
+*© 2026 Sherlock Holmes. All Rights Reserved.*
 
 ---
 <div align="center">
