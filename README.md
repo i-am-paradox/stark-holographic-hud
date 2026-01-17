@@ -50,7 +50,7 @@ No heavy installation required. This is a lightweight browser-based simulation.
 ## 📜 LICENSE
 
 Approved for public use under the **MIT License**.
-*© 2026 Sherlock Holmes. All Rights Reserved.*
+*© 2026 Sherlock Holmes (Paradox). All Rights Reserved.*
 
 ---
 <div align="center">
