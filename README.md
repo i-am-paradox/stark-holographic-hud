@@ -10,7 +10,7 @@ A next-generation **Hand Tracking Particle System** featuring a high-fidelity "S
 
 ## 🚀 FEATURES
 
-*   **🦾 Protocol Jarvis**: Cinematic "Assemble" boot sequence on initialization.
+*   **🦾 Protocol Sherlock**: Cinematic "Assemble" boot sequence on initialization.
 *   **🔵 Arc Reactor Controls**: Circular, rotating holographic buttons with magnetic hover effects.
 *   **🖐️ Neural Hand Tracking**: Real-time gesture recognition (Openness, Distance, pinch).
 *   **💠 Dynamic Particle Field**: 10,000+ particles reacting to hand movements in 3D space.
@@ -25,7 +25,7 @@ No heavy installation required. This is a lightweight browser-based simulation.
     git clone https://github.com/i-am-paradox/stark-holographic-hud.git
     ```
 2.  **Launch**
-    Simply open `can hand tracking.html` in any modern browser (Chrome/Edge recommended for WebGL performance).
+    Simply open `hand_tracking.html` in any modern browser (Chrome/Edge recommended for WebGL performance).
     > **Note**: Camera access is required for the neural tracking to function.
 
 ## 🎮 CONTROLS
