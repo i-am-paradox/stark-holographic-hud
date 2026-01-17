@@ -54,5 +54,5 @@ Approved for public use under the **MIT License**.
 
 ---
 <div align="center">
-  <sub>Built with bad-ass intent.</sub>
+  <sub>Built with 💙 by Paradox.</sub>
 </div>
